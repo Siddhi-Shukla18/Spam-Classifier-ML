@@ -21,3 +21,8 @@ This project uses Natural Language Processing (NLP) techniques and a trained mac
 2. Install dependencies
 ```bash
 pip install scikit-learn
+
+3. Run the application
+```bash
+python app.py
+
