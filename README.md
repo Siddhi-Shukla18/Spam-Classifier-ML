@@ -19,9 +19,7 @@ This project uses Natural Language Processing (NLP) techniques and a trained mac
 ##  How to Run the Project
 1. Clone the repository
 2. Install dependencies
-```bash
-pip install scikit-learn
-. Run the application
+3. Run the application
 ```bash
 python app.py
 
